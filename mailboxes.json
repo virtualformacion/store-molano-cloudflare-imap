@@ -1,4 +1,15 @@
 {
   "version": 1,
-  "mailboxes": []
+  "mailboxes": [
+    {
+      "id": "25a6da68-7025-46c2-80c3-2de8aa398ec7",
+      "email": "webserviciocodigos@gmail.com",
+      "name": "servicio",
+      "folder": "",
+      "active": 1,
+      "password_encrypted": "{\"v\":1,\"iv\":\"lmdVraq5qwFutfSj\",\"data\":\"HpfMlfRNOdPs9WxwtnEYgvEvGi65MAkLXVqEC7KybKU=\"}",
+      "created_at": "2026-11-19T15:55:39.458Z",
+      "updated_at": "2026-11-19T15:55:39.458Z"
+    }
+  ]
 }
